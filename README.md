@@ -1,16 +1,23 @@
-## Hi there 👋
+ 👋 Hi, I'm Krithika
 
-<!--
-**krithi-2704/krithi-2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing BCA with specialization in Analytics at Kristu Jayanti College.
 
-Here are some ideas to get you started:
+🧠 Interests
+- Data Science & Analytics
+- Machine Learning & Artificial Intelligence
+- Python Programming
+- Solving real-world problems with data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻 Languages & Tools
+- **Languages:** Python, C, C++, C#, Java, HTML, CSS
+- **Databases:** SQL
+- **Tools:** Jupyter Notebook, Git, GitHub
+
+ 📈 Currently Learning
+- Data Science concepts and workflows
+- Machine Learning basics
+- Data Visualization techniques
+- Real-world projects using Python and Pandas
+
+ 🔍 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/krithika-n-974577286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
