@@ -11,7 +11,7 @@
  💻 Languages & Tools
 - **Languages:** Python, C, C++, C#, Java, HTML, CSS
 - **Databases:** SQL, MongoDB 
-- **Tools:** Jupyter Notebook, Git, GitHub, VSCode,PowerBI
+- **Tools:** Jupyter Notebook, Git, GitHub, VSCode, PowerBI
 
  📈 Currently Learning
 - Data Science concepts and workflows
