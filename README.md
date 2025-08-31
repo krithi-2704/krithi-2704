@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there!%20I'm%20Krithika%20✨&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Space!&descAlignY=55&descAlign=50"/>
 </p>
 
- 👋 Hi, I'm Krithika
-
 🎓 I'm currently pursuing BCA with specialization in Analytics at Kristu Jayanti College.
 
 🧠 Interests
