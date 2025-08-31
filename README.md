@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,100:00BFFF&height=300&section=header&text=Krithika%20🌌&fontSize=50&animation=fadeIn&desc=Dream%20•%20Build%20•%20Explore&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,100:00BFFF&height=300&section=header&text=Krithika%20✨&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Space!&descAlignY=65&descAlign=50"/>
 </p>
+
 
  👋 Hi, I'm Krithika
 
