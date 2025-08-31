@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there!%20I'm%20Krit%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Data%20Science%20%7C%20ML%20Enthusiast&descAlignY=55&descAlign=50"/>
+</p>
+
  👋 Hi, I'm Krithika
 
 🎓 I'm currently pursuing BCA with specialization in Analytics at Kristu Jayanti College.
@@ -22,18 +27,3 @@
  🔍 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/krithika-n-974577286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krithi-2704&show_icons=true&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krithi-2704&layout=compact&theme=radical)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=krithi-2704&theme=radical)
-
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,mysql,vscode" />
-</p>
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=krithi-2704&color=blue)
