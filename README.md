@@ -21,3 +21,5 @@
 
  🔍 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/krithika-n-974577286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krithi-2704&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krithi-2704&layout=compact&theme=tokyonight)
