@@ -23,11 +23,16 @@
 - Real-world projects using Python and Pandas
 
  🔍 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/krithika-n-974577286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+<!-- Connect with me -->
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/krithi-2704"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/krithi-2704" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krithika-n-974577286" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+
 
