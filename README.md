@@ -22,7 +22,6 @@
 - Data Visualization techniques
 - Real-world projects using Python and Pandas
 
- 🔍 Let's Connect
 <!-- Connect with me -->
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
