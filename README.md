@@ -25,3 +25,9 @@
  🔍 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/krithika-n-974577286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/krithi-2704"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
