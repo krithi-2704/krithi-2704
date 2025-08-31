@@ -30,10 +30,8 @@
 <a href="https://www.linkedin.com/in/krithika-n-974577286" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krithi-2704&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithi-2704&layout=compact&theme=radical" height="160"/>
-</p>
+
+<!-- GitHub Stats -->
+![Krithika's GitHub stats](https://github-readme-stats.vercel.app/api?username=krithi-2704&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 
