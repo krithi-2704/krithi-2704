@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there!%20I'm%20Krit%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Data%20Science%20%7C%20ML%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there!%20I'm%20Krithika%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Universe!&descAlignY=55&descAlign=50"/>
 </p>
 
  👋 Hi, I'm Krithika
