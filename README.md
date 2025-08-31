@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌌%20Kʀɪᴛʜɪᴋᴀ%20🌌&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Dream%20•%20Build%20•%20Explore&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Krithika%20🌌&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Dream%20•%20Build%20•%20Explore&descAlignY=55&descAlign=50"/>
 </p>
+
 
  👋 Hi, I'm Krithika
 
