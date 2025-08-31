@@ -6,7 +6,7 @@
 ---
 
 ## 🎓 About Me  
-I'm currently pursuing **BCA with specialization in Analytics** at *Kristu Jayanti College*.  
+I'm currently pursuing **BCA with specialization in Analytics** at *Kristu Jayanti University*.  
 
 ---
 
