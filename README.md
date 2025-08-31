@@ -34,4 +34,22 @@
 <!-- GitHub Stats -->
 ![Krithika's GitHub stats](https://github-readme-stats.vercel.app/api?username=krithi-2704&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krithi-2704&theme=radical&border_radius=5"/>
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,matplotlib,java,html,css,js,git,github,mysql,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krithi-2704&color=blue&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
